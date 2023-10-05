@@ -1,13 +1,13 @@
 # Site settings
-title: SecureSeal - Windows and Doors
-email: info@secureseal.com
+title: Envision Windows & Doors
+email: info@envisionwindowsanddoors.co.uk
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 phone_number: "07704382597"
 twitter_username:
-facebook_page: SecureSealWindowsandDoors
+facebook_page: EnvisionWindowsandDoors
 
 # Build settings
 markdown: kramdown
